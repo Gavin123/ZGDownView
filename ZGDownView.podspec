@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+    这是一个通用下拉框！！！！
                        DESC
 
-  s.homepage         = 'https://github.com/457076781@qq.com/ZGDownView'
+  s.homepage         = 'https://github.com/Gavin123/ZGDownView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '457076781@qq.com' => '457076781@qq.com' }
-  s.source           = { :git => 'https://github.com/457076781@qq.com/ZGDownView.git', :tag => s.version.to_s }
+  s.author           = { 'Gavin123' => '457076781@qq.com' }
+  s.source           = { :git => 'https://github.com/Gavin123/ZGDownView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

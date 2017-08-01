@@ -1,0 +1,16 @@
+PODS:
+  - ZGDownView (0.1.0)
+
+DEPENDENCIES:
+  - ZGDownView (from `../`)
+
+EXTERNAL SOURCES:
+  ZGDownView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZGDownView: 016496d7c3b28d1e2fb464940e6a23eb4e558672
+
+PODFILE CHECKSUM: b6ad84ef0948f4e910a74db587642398ff4c7230
+
+COCOAPODS: 1.2.0

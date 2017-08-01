@@ -1,0 +1,22 @@
+{
+  "name": "ZGDownView",
+  "version": "0.1.0",
+  "summary": "A short description of ZGDownView.",
+  "description": "这是一个通用下拉框！！！！",
+  "homepage": "https://github.com/Gavin123/ZGDownView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gavin123": "457076781@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Gavin123/ZGDownView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZGDownView/Classes/**/*"
+}

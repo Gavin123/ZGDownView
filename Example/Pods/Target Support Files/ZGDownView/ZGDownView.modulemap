@@ -1,0 +1,6 @@
+framework module ZGDownView {
+  umbrella header "ZGDownView-umbrella.h"
+
+  export *
+  module * { export * }
+}
