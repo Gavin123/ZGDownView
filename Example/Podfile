@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZGDownView_Example' do
+  pod 'ZGDownView', :path => '../'
+
+  target 'ZGDownView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
